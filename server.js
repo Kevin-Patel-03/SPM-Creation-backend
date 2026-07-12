@@ -12,7 +12,7 @@ console.log('🔑 API key present?', !!process.env.ANTHROPIC_API_KEY);
 app.use(cors({
   origin: [
     // 👉 Replace with your actual deployed frontend URL (e.g. Vercel/Netlify link)
-    'https://spm-creation-reviews.vercel.app',
+    'https://spm-creation-frontend.vercel.app',
     'http://localhost:3000',
     'http://127.0.0.1:5500'
   ],
