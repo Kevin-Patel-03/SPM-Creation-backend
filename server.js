@@ -37,7 +37,7 @@ const DATABASE = {
     googleReviewLink: "",
 
     // 👉 Replace with your real Instagram profile URL.
-    instagramUrl: "https://instagram.com/spm_creation",
+    instagramUrl: "https://www.instagram.com/spm_creation._?igsh=MXVjcmNjYmJxZmdpeQ==",
 
     categories: {
       "Ethnic / Traditional Wear": [
